@@ -5,6 +5,6 @@
 # python <nombre_archivo>.py -> para ejecutar mi programa python sobre la terminal
 
 
-x = "hola mundo"
+x = "hola mundo and"
 
 print(x)
