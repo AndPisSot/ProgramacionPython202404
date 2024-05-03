@@ -8,5 +8,3 @@
 x = "hola mundo"
 
 print(x)
-
-6 +8 
