@@ -1,4 +1,4 @@
-# ingredando valor de la base y altura
+# ingresando valor de la base y altura
 base = float(input('Ingrese el valor de la base: '))
 altura = float(input('Ingrese el valor de la altura: '))
 
@@ -12,10 +12,10 @@ print(area_triangulo)
 # 1 forma de impresion
 print('El area del triangulo de base', base, ' y altura', altura, 'es : ', area_triangulo)
 
-# 2. forma de impresion
+# 2. forma de impresion recomendado
 print(f'El area del triangulo de base {base} y altura {altura} es : {area_triangulo}')
 
-# 3. forma de impresion
+# 3. forma de impresion recomendado
 
 print('El area del triangulo de base {} y altura {} es : {}'.format(base, altura, area_triangulo))
 
